@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalcProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_division">/</string>
+</resources>
